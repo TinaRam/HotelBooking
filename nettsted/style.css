@@ -1,0 +1,241 @@
+body {
+  background-color: #f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+}
+header {
+  text-align: center;
+}
+aside {
+  float: left;
+  width: 20%;
+}
+section {
+  background-color: white;
+  float: left;
+  width: 70%;
+  padding: 20px;
+  min-height: 70vh;
+}
+
+.visTabell {
+  width: 100%;
+}
+.visTabell th {
+  text-align: left;
+}
+.visTabell tr {
+  background-color: #f6f6f6;
+  height: 35px;
+}
+.visTabell td, .visTabell th {
+  padding: 5px;
+}
+.visTabell tr:nth-child(odd) {
+  background-color: #d3d3d3;
+}
+.visTabell img {
+  height: 200px;
+  margin: auto;
+}
+.buttonForslag {
+  background-color: white;
+  width: 100%;
+  border: 1px solid #d3d3d3;
+  padding: 5px;
+  margin-top: 3px;
+}
+.buttonForslag:hover {
+  background-color: #d3d3d3;
+  border: 1px solid grey;
+}
+.hotell img {
+  height: 200px;
+  border: 1px solid grey;
+}
+#bestill {
+  width: 100%;
+}
+#container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+/* NY KODE ---> */
+#images {
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  grid-gap: 5px;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #ddd;
+}
+ul li {
+    padding: 8px 16px;
+    border-bottom: 1px solid #ddd;
+}
+ul li:last-child {
+    border-bottom: none
+}
+/* <--- NY KODE */
+.bokser {
+  margin: auto;
+  margin-top: 0px;
+  border: 1px solid #d3d3d3;
+  background-color: #f6f6f6;
+  border-radius: 2px;
+  padding: 20px;
+  padding-top: 0;
+  width: 25%;
+  text-align: center;
+}
+.bokser input {
+  width: 100%;
+}
+#bokserRomtype, #bokserDato {
+  visibility: hidden;
+}
+#info {
+  display: none;
+}
+#right {
+  float: right;
+  width: 70%;
+}
+#bestill {
+  float: left;
+}
+#bestillHotell {
+  float: right;
+  width: 70%;
+}
+#prisOgKnapp {
+  float: right;
+  margin-top: -100px;
+  text-align: center;
+  color: turquoise;
+}
+.overskrift {
+  float: left;
+}
+.hotell {
+  border: 1px solid #d3d3d3;
+  border-radius: 2px;
+  background-color: #f6f6f6;
+  margin-bottom: 20px;
+  padding: 10px;
+  float: right;
+  width: 74%;
+}
+.hotell h2, .hotell h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.button {
+  padding: 5px;
+  background-color: turquoise;
+  width: 100%;
+  height: 30px;
+  margin-top: 3px;
+  text-align: center;
+  border: none;
+  color: white;
+}
+.button:hover {
+  background-color: #2aafa2;
+}
+.red {
+  background-color: #ff5338;
+  width: 200px;
+}
+.red:hover {
+  background-color: #c63923;
+}
+.formLeft {
+  border: 1px solid #d3d3d3;
+  border-radius: 2px;
+  float: left;
+  background-color: #f6f6f6;
+  padding: 10px;
+  width: 20%;
+}
+.slidecontainer {
+    width: 100%;
+}
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 10px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    border-radius: 5px;
+}
+.slider:hover {
+    opacity: 1;
+}
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 17px;
+    height: 17px;
+    background: turquoise;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    background: turquoise;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#hotellSok {
+  text-align: center;
+}
+.pris {
+  font-size: 120%;
+  color: #2aafa2;
+}
+#visBilde img {
+  width: 100%;
+  margin-top: 10px;
+}
+.ledigeRomTekst {
+  font-size: 120%;
+  color: green;
+}
+#ingenLedige {
+  color: red;
+}
+.inaktiv {
+  background-color: #d3d3d3;
+  color: grey;
+}
+.leftImg {
+  float: left;
+  margin-right: 10px;
+}
+.vanligTekst {
+  background-color: transparent;
+  border: none;
+}
+
+/* LOGG INN */
+.logginn {
+  margin-top: 200px;
+}
+#rombilde img {
+  width: 100%;
+}
+.romtypeBilde {
+  width: 90%;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 200px;
+}
