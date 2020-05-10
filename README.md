@@ -1,5 +1,5 @@
 # HotelBooking
-Exam in "Fundamental programming" 
+Exam "Basic Programming" 
 
 
 Link to the booking maintenance-site (admin/admin):
