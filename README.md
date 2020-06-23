@@ -1,2 +1,2 @@
 # HotelBooking
-Exam "Basic Programming" 
+Exam "Fundamental Programming" spring 2018
