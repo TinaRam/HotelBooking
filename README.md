@@ -4,15 +4,15 @@
 
 ### Nettsted
 
-[![Screenshot nettsted](https://home.usn.no/216808/prg1100/eksamen/filer/bjarumHotels.png)](https://home.usn.no/216808/prg1100/eksamen/nettsted/)
+[![Screenshot nettsted](https://web01.usn.no/~216808/prg1100/eksamen/filer/bjarumHotels.png)](https://home.usn.no/216808/prg1100/eksamen/nettsted/)
 
 ### MinSide
 Testbruker: minside / minside
-[![Screenshot nettsted](https://home.usn.no/216808/prg1100/eksamen/filer/minside.png)](https://home.usn.no/216808/prg1100/eksamen/nettsted/minside/)
+[![Screenshot nettsted](https://web01.usn.no/~216808/prg1100/eksamen/filer/minside.png)](https://home.usn.no/216808/prg1100/eksamen/nettsted/minside/)
 
 ### Vedlikeholdsapplikasjon
 Testbruker: admin / admin
-[![Screenshot nettsted](https://home.usn.no/216808/prg1100/eksamen/filer/vedlikehold.png)](https://home.usn.no/216808/prg1100/eksamen/vedlikehold/)
+[![Screenshot nettsted](https://web01.usn.no/~216808/prg1100/eksamen/filer/vedlikehold.png)](https://home.usn.no/216808/prg1100/eksamen/vedlikehold/)
 
 ## Teknologi
 
@@ -24,7 +24,7 @@ Testbruker: admin / admin
 
 ## ER-modell av databasen
 
-![ER-modell av databasen](https://home.usn.no/216808/prg1100/eksamen/dokumentasjon/logisk_ER-modell.jpg)
+![ER-modell av databasen](https://web01.usn.no/~216808/prg1100/eksamen/dokumentasjon/logisk_ER-modell.jpg)
 
 ## Oppgavebeskrivelsen
 
