@@ -4,7 +4,7 @@
 
 ### Nettsted
 
-[![Screenshot nettsted](https://web01.usn.no/~216808/prg1100/eksamen/filer/bjarumHotels.png)](https://home.usn.no/216808/prg1100/eksamen/nettsted/)
+[![Screenshot nettsted](img/bjarumHotels.png)](https://home.usn.no/216808/prg1100/eksamen/nettsted/)
 
 ### MinSide
 Testbruker: minside / minside
